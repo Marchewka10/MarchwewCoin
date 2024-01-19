@@ -5,6 +5,7 @@ Small mining software for low power device (For example):
   
 To turn software you need:
 - Python
+- Random
 - Colorama (In lite version you dont need it)
 
 How to turn it on?
